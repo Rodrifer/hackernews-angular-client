@@ -1,6 +1,6 @@
 {
-  "name": "HNApp",
-  "version": "0.0.0",
+  "name": "hnapp",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
